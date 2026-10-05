@@ -5,7 +5,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 
 **Họ tên / MSSV:** Đinh Đức Thái / 2A202602648
 **Repo:** https://github.com/ducthais/K4-Track02-Day17-DinhDucThai-2A202602648-Data-Pipeline-Engineering
-**Commit bài nộp:** c45dbb0
+**Commit bài nộp:** 1a867e0
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Antigravity IDE (Gemini 3.8 Flash) — hỗ trợ phân tích đề bài, xác định 3 lỗi trong pipeline (Silver key, Late data, CDC delete), viết code sửa lỗi trong pipeline/, triển khai cache/quarantine cho bonus B1 (pipeline/llm_label.py), chạy verify/pytest/rerun/dbt/parity và soạn thảo báo cáo REPORT.md.
 **Nguồn tham khảo khác (nếu có):** Slide bài giảng Ngày 17 (Data Pipeline Engineering).
 
